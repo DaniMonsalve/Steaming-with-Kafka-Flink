@@ -1,11 +1,3 @@
-# Apache Flink E-Commerce Analytics with Elasticsearch and Postgres
-
-This repository contains an Apache Flink application for real-time sales analytics built using Docker Compose to orchestrate the necessary infrastructure components, including Apache Flink, Elasticsearch, and Postgres. The application processes financial transaction data from Kafka, performs aggregations, and stores the results in both Postgres and Elasticsearch for further analysis.
-
-## Requirements
-- Docker
-- Docker Compose
-
 # Real-Time Streaming at Scale: Integrating Apache Flink, Kafka, Postgres, Elasticsearch, Kibana, and Docker
 
 This project demonstrates how to integrate Apache Flink, Kafka, Postgres, Elasticsearch, and Kibana to build a robust real-time data processing architecture. It is based on the Medium article by Yusuf Ganiyu. (https://medium.com/towards-data-engineering/real-time-streaming-at-scale-integrating-apache-flink-kafka-postgres-elasticsearch-kibana-and-132a7fd59e00)
